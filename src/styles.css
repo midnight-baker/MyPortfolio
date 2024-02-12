@@ -47,14 +47,16 @@ section img.background {
 
 h1 {
   font-family: "Cormorant Garamond", serif;
+  color: #FFFFFF;
   font-size: 7rem;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 0.8;
   margin: 0;
 }
 
 h2 {
   font-size: 2rem;
+  color: #FFFFFF;
   font-weight: 400;
   margin: 0;
   padding-top: 1rem;
